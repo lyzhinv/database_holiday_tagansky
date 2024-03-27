@@ -1,4 +1,4 @@
-### Монитор Mi 23.8 Desktop Monitor 1C </br>
+### Монитор Xiaomi 23.8 Desktop Monitor 1C </br>
 
 **Серийный номер:** 29200/00393614</br>
 
