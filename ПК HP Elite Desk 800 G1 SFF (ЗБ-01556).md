@@ -1,4 +1,4 @@
-### ПК HP Elite Desk 800 G1 SFF (ЗамРук СПиР) </br>
+### ПК HP Elite Desk 800 G1 SFF (ЗБ-01556) </br>
 
 **Серийный номер:** CZC44236CV </br>
 
