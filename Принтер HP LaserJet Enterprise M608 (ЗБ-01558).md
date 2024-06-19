@@ -1,4 +1,4 @@
-###  Принтер HP LaserJet Enterprise M608 (Ресепшн 2) </br>
+###  Принтер HP LaserJet Enterprise M608 (ЗБ-01558) </br>
 
 **Серийный номер:** CNBVN8R0VT </br>
 
