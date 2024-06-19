@@ -1,4 +1,4 @@
-### Принтер HP LaserJet Enterprise M611 (телефонный оператор)  </br>
+### Принтер HP LaserJet Enterprise M611 (ЗБ-01551)  </br>
 
 **Серийный номер:** CNBBR5C0B2 </br>
 
