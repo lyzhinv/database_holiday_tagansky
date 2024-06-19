@@ -1,4 +1,4 @@
-###  Принтер HP LaserJet Enterprise M608 (ЗБ-01557)) </br>
+###  Принтер HP LaserJet Enterprise M608 (ЗБ-01557) </br>
 
 **Серийный номер:** CNBVM8X152 </br>
 
