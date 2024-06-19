@@ -1,4 +1,4 @@
-### ПК HP EliteDesk 800 G3 Mini 35W (телефонный оператор)  </br>
+### ПК HP EliteDesk 800 G3 Mini 35W (ЗБ-01550)  </br>
 
 **Серийный номер:** 8CG8238DJZ </br>
 
