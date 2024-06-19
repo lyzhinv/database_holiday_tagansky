@@ -1,4 +1,4 @@
-### ПК HP Elite Desk 800 G1 SFF (Супервайзер СПиР) </br>
+### ПК HP Elite Desk 800 G1 SFF  (ЗБ-01552) </br>
 
 **Серийный номер:** CZC44236DK </br>
 
