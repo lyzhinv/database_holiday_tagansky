@@ -1,8 +1,8 @@
-###  Принтер HP LaserJet Enterprise 700 color MFP M775 series (СПиР бэк-офис) </br>
+###  Принтер HP LaserJet Enterprise 700 color MFP M775 series </br>
 
 **Серийный номер:** CNHTG20F9 </br>
 
-**Инвентарный номер:** xxx </br>
+**Инвентарный номер:** 000001914 </br>
 
 **Код в 1С:** xxx </br> 
 
